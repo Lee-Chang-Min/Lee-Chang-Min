@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lee-Chang-Min/Lee-Chang-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Hello%20World😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=50&fontColor=ffffff&fontAlignY=45)
