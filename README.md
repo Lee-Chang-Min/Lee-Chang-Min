@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Hello%20World😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=50&fontColor=ffffff&fontAlignY=45)
+
+<p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p>
