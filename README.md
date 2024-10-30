@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ### 안녕하세요. 꾸준히 공부하는 개발자, 이창민 입니다😀
 
-#### 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+#### 📞 Contact 
+<div style="display: flex; justify-content: center;">
     <a href="mailto:min971011@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+</div>
 
 <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
