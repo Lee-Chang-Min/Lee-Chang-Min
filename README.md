@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p>
 
+### 안녕하세요. 꾸준히 공부하는 개발자, 이창민 입니다😀
+
+#### 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:min971011@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
