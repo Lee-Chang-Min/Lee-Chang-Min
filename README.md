@@ -46,6 +46,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
+<p align="center">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="53" height="53" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="58" height="58" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
+</p>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
     
