@@ -46,20 +46,12 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
     
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Chang-Min&layout=donut-vertical&hide=SCSS&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="100%"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lee-Chang-Min&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Chang-Min&layout=donut-vertical&hide=SCSS&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=21% />
+</a>    
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lee-Chang-Min&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=75%/>
+</a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Lee-Chang-Min&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
