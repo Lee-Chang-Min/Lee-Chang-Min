@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Hello%20World😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=50&fontColor=ffffff&fontAlignY=45)
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=안녕하세요😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=25&fontColor=ffffff&fontAlignY=35)
-
 <!--<p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p> -->
-
 <!--### 안녕하세요. 꾸준히 공부하는 개발자, 이창민 입니다😀-->
 <h3>ChangM-Lee 👋</h3>
 
@@ -81,6 +79,11 @@ Here are some ideas to get you started:
          style="width: 75%; border-radius: 15px;"/>
 </a>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Chang-Min&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a> -->
+<br><br>
+
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Chang-Min%2Fhit-counter&count_bg=%234146FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+  </a>
+</p>
+
