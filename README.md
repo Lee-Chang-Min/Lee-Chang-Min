@@ -31,19 +31,21 @@ Here are some ideas to get you started:
 
 <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?logo=googlecloud&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Google BigQuery-669DF6?logo=googlebigquery&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>&nbsp 
 </p>
 
 <p align="center">
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h4 align="center"><strong>👩‍💻 My Github Stats 👩‍💻</strong></h4>
 <div align="center">
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
