@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 <!--<p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p> -->
 
-### 안녕하세요. 꾸준히 공부하는 개발자, 이창민 입니다😀
+<!--### 안녕하세요. 꾸준히 공부하는 개발자, 이창민 입니다😀-->
+<h3>ChangM-Lee 👋</h3>
+- 🔭 저는 클라우드 서비스를 활용한 백엔드 개발에 관심이 많습니다. 다양한 산업 분야의 프로젝트를 수행하며, 서비스 개발, 배포 운영 경험을 쌓아왔습니다.
+- 🌱 팀의 성장이 곧 개인의 성장이라고 믿으며, 사내 개발 문화 개선을 통해 더 빠른 팀 성장을 이끌어내는 데 관심이 많습니다.  
+- 📄 업무 중 비효율을 개발로 해결할 때 큰 보람을 느끼며, 새로운 도전을 두려워하지 않고 자기 주도적으로 문제 해결에 임합니다. 
+- 🚀 앞으로도 새로운 기술을 꾸준히 습득하며, 안정적이고 비즈니스 가치가 높은 서비스를 개발하는 것을 목표로 성장해 나가고 있습니다.
 
 <!-- #### 📞 Contact 
 <div style="display: flex; justify-content: center;">
@@ -28,6 +33,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div> -->
+
+<br>
 
 <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
@@ -55,6 +62,8 @@ Here are some ideas to get you started:
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
 </p>
+
+<br>
 
 <h4 align="center"><strong>👩‍💻 My Github Stats 👩‍💻</strong></h4>
 <div align="center">
