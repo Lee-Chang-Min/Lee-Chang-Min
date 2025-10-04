@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <!--<p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p> -->
 <!--### 개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.😀-->
 <h3>ChangM-Lee 👋</h3>
+
 **개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.**
 
 <br><br>
@@ -86,9 +87,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p align="right">
+<!-- <p align="right">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Chang-Min%2Fhit-counter&count_bg=%234146FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
   </a>
-</p>
+</p> -->
 
