@@ -5,6 +5,11 @@
 **개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.**  
 클라우드 서비스를 활용한 백엔드 개발과 AI에 관심이 많습니다. 다양한 산업 분야의 프로젝트를 수행하며 서비스 개발, 배포, 운영 경험을 쌓아왔습니다.
 
+<img
+  src="https://skillicons.dev/icons?i=py,ts,fastapi,nodejs,nestjs,postgres,redis,gcp,docker,kubernetes,grafana,prometheus&theme=dark&perline=14"
+  alt="Python, TypeScript, FastAPI, Node.js, NestJS, PostgreSQL, Redis, Google Cloud, Docker, Kubernetes, Grafana, Prometheus"
+  width="600"
+/>
 ## My values
 
 - 🧩 **문제를 끝까지 해결합니다**  
@@ -23,9 +28,7 @@
 
 
 
-
-
-<h4 align="center">📚 Tech Stack 📚</h4>
+<!-- <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?logo=googlecloud&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>&nbsp 
@@ -50,7 +53,7 @@
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="58" height="58" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
-</p>
+</p> -->
 
 <br>
 
