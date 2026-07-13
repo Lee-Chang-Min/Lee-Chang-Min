@@ -1,49 +1,29 @@
-<!--
-**Lee-Chang-Min/Lee-Chang-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Hello%20World😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=50&fontColor=ffffff&fontAlignY=45)
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=안녕하세요😄&desc=Chang%Min's%20%GitHub&descSize=20&descAlign=52.2&fontSize=25&fontColor=ffffff&fontAlignY=35)
-<!--<p align="center"><img src="https://github.com/Lee-Chang-Min/Lee-Chang-Min/assets/83379890/acc81e61-afd7-4ea6-a238-302e48b01890" /></p> -->
-<!--### 개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.😀-->
-<h3>ChangM-Lee 👋</h3>
-
-**개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&vCenter=true&width=435&lines=ChangMin-Lee+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br>
 
-- 🔭 **클라우드 서비스를 활용한 백엔드 개발**과 **AI**에 관심이 많습니다. 다양한 산업 분야의 프로젝트를 수행하며, **서비스 개발, 배포, 운영 경험**을 쌓아왔습니다.  
+**개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.**  
+클라우드 서비스를 활용한 백엔드 개발과 AI에 관심이 많습니다. 다양한 산업 분야의 프로젝트를 수행하며 서비스 개발, 배포, 운영 경험을 쌓아왔습니다.
 
-- 🌱 **AI 기반 개발 도구**를 적극적으로 탐색하고 활용하여, 개발 생산성을 극대화 하는 방법을 항상 연구 합니다.  
+## My values
 
-- 📄 업무 중 **비효율을 개발로 해결**할 때 큰 보람을 느끼며, **새로운 도전**을 두려워하지 않고 **자기 주도적으로 문제 해결**에 임합니다.  
+- 🧩 **문제를 끝까지 해결합니다**  
+  불편하고 비효율적인 업무를 발견하면, 원인을 구조화하고 개발로 더 나은 흐름을 만듭니다.
 
-- 🤝 어제보다 더 나은 코드를 작성하기 위해 **매일 배우고 기록**합니다. 기술의 깊이를 더하고 동료와 함께 성장 하는 과정에서 큰 즐거움을 느낍니다.
+- 🌱 **배우고 기록하며 성장합니다**  
+  어제보다 나은 코드를 작성하기 위해 꾸준히 학습하고, 배운 내용을 동료와 나누는 과정을 중요하게 생각합니다.
 
-- 🚀 앞으로도 **새로운 기술을 꾸준히 습득**하며, **안정적이고 비즈니스 가치가 높은 서비스**를 개발하는 것을 목표로 성장해 나가고 있습니다.
+- 🚀 **기술로 비즈니스 성과를 만들었습니다**  
+  새로운 기술을 꾸준히 습득하며, 안정적이고 비즈니스 가치가 높은 서비스를 만드는 개발자로 성장하고 있습니다.
+
+## How I work
+
+복잡한 문제일수록 먼저 사용자의 맥락과 비즈니스 목표를 이해하려고 합니다. 그 후 작게 검증할 수 있는 해결책부터 만들고, 운영 과정에서 얻은 피드백을 바탕으로 지속적으로 개선합니다.
+새로운 기술을 빠르게 익히되, 유지보수성과 안정성을 놓치지 않는 개발을 지향합니다.
 
 
-<!-- #### 📞 Contact 
-<div style="display: flex; justify-content: center;">
-    <a href="mailto:min971011@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div> -->
 
-<br>
+
 
 <h4 align="center">📚 Tech Stack 📚</h4>
 <p align="center">
