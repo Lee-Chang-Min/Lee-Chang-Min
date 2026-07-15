@@ -54,7 +54,6 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
 </p> -->
 
-<br>
 
 ## Latest posts
 
