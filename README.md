@@ -56,15 +56,20 @@
 
 <br>
 
-## GitHub activity
+## Latest posts
 
-<p align="center">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<a href="https://내블로그.tistory.com/">모든 글 보러가기 →</a>
+
+<!-- <p align="center">
   <img
     src="./metrics.plugin.isocalendar.svg"
     alt="GitHub contribution activity"
     width="820"
   />
-</p>
+</p> -->
 
 <!-- <p align="right">
   <a href="https://hits.seeyoufarm.com">
