@@ -57,10 +57,15 @@
 
 <br>
 
-<h4 align="center"><strong>👩‍💻 My Github Stats 👩‍💻</strong></h4>
-<div align="center">
-<img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="100%" />
-<br><br>
+## GitHub activity
+
+<p align="center">
+  <img
+    src="./metrics.plugin.isocalendar.svg"
+    alt="GitHub contribution activity"
+    width="820"
+  />
+</p>
 
 <!-- <p align="right">
   <a href="https://hits.seeyoufarm.com">
