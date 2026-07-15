@@ -59,6 +59,9 @@
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 283. Move Zeroes](https://bestdeveloper.tistory.com/48)
+- [2026년, 바야흐로 대 에이전트의 시대](https://bestdeveloper.tistory.com/47)
+- [혼자서도 4인분: Claude Code로 구축한 AI 에이전트 팀 개발 회고](https://bestdeveloper.tistory.com/46)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://bestdeveloper.tistory.com/">모든 글 보러가기 →</a>
