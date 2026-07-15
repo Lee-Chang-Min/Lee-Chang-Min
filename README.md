@@ -3,7 +3,7 @@
 <br>
 
 **개발자는 다양한 비즈니스 문제를 기술로 풀어가는 사람이라고 생각합니다.**  
-클라우드 서비스를 활용한 백엔드 개발과 AI에 관심이 많습니다. 다양한 산업 분야의 프로젝트를 수행하며 서비스 개발, 배포, 운영 경험을 쌓아왔습니다.
+AI의 발전으로 단순 구현의 속도가 빨라진 만큼, 문제를 더 깊이 분석하고 기술 선택의 이유를 명확히 설명할 수 있는 역량이 중요하다고 생각합니다. 그래서 복잡한 이해관계 속에서 비즈니스 요구사항을 정확히 파악하고 이를 가장 효율적인 기술로 해결하는 개발자가 되기 위해 노력합니다. 
 
 <img
   src="https://skillicons.dev/icons?i=py,ts,fastapi,nodejs,nestjs,postgres,redis,gcp,docker,kubernetes,grafana,prometheus&theme=dark&perline=14"
