@@ -26,6 +26,4 @@ jobs:
           user_agent: "Mozilla/5.0"
           accept_header: "text/xml"
           retry_count: 3
-
-          template: "- [$title]($url) · $date$newline"
           date_format: "yyyy.mm.dd"
